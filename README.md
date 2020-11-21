@@ -1,3 +1,3 @@
 # python
 #python basics
-print("Hello world")
+#print("Hello world")
