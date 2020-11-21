@@ -1,2 +1,3 @@
 # python
-python basics
+#python basics
+print("Hello world")
